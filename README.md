@@ -317,6 +317,27 @@ A report on the solution validation will be provided, if there are validation er
 }
 ```
 
+
+## Cite
+
+If you use this repository in your research, please cite our paper:
+
+### BibTeX
+
+```bibtex
+@article{ceschia2026multi,
+  author = {Ceschia, Sara and Di Gaspero, Luca and Rosati, Roberto Maria and Schaerf, Andrea},
+  title = {Multi-neighborhood simulated annealing for the home healthcare routing and scheduling problem},
+  journal = {International Transactions in Operational Research},
+  volume = {33},
+  number = {1},
+  pages = {38--67},
+  year = {2026},
+  doi = {10.1111/itor.13585},
+  url = {https://doi.org/10.1111/itor.13585}
+}
+```
+
 ------------------------------------------------------------------------
 
 Copyright: 2023 Intelligent Optimization Laboratory \@ Università degli Studi di Udine License: MIT
