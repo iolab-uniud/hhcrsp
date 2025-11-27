@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/666312023.svg)](https://zenodo.org/badge/latestdoi/666312023)
+
 # hhcrsp
 
 Data and Toolbox Repository for the Home Healthcare Routing and Scheduling Problem.
