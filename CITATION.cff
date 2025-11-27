@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "Multi-neighborhood simulated annealing for the home healthcare routing and scheduling problem"
+authors:
+  - family-names: Ceschia
+    given-names: Sara
+    affiliation: "DPIA, Università degli Studi di Udine"
+    address: "Via delle Scienze 206"
+    city: Udine
+    post-code: "I-33100"
+    country: IT
+  - family-names: Di Gaspero
+    given-names: Luca
+    affiliation: "DPIA, Università degli Studi di Udine"
+    address: "Via delle Scienze 206"
+    city: Udine
+    post-code: "I-33100"
+    country: IT
+  - family-names: Rosati
+    given-names: Roberto Maria
+    affiliation: "DPIA, Università degli Studi di Udine"
+    address: "Via delle Scienze 206"
+    city: Udine
+    post-code: "I-33100"
+    country: IT
+  - family-names: Schaerf
+    given-names: Andrea
+    affiliation: "DPIA, Università degli Studi di Udine"
+    address: "Via delle Scienze 206"
+    city: Udine
+    post-code: "I-33100"
+    country: IT
+journal: "International Transactions in Operational Research"
+volume: 33
+issue: 1
+start: 38
+end: 67
+year: 2026
+doi: 10.1111/itor.13585
+url: "https://doi.org/10.1111/itor.13585"
+abstract: "Over time, the focus on supportive and geriatric care has shifted from being predominantly provided in institutional settings like nursing or rest homes to be delivered within the homes of the patients. Trained caregivers now provide home healthcare services by visiting patients in their own homes and carrying out specific services based on each patient's individual needs before moving on to the next patient. Planning such a service involves considering the routing aspect and ensuring synchronization between services and designated time windows for patients. To solve the problem, we propose a local search approach that combines different neighborhood operators guided by the simulated annealing metaheuristic. Additionally, we introduce a realistic and diverse dataset and a robust and flexible file format based on JSON."
+keywords:
+  - home healthcare
+  - routing and scheduling
+  - simulated annealing
+  - metaheuristics
+  - local search
+  - optimization
